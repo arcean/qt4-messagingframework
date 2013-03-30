@@ -1,0 +1,3 @@
+usr/lib/qmf/plugins/contentmanagers/*.so* usr/lib/qmf/contentmanagers
+usr/lib/qmf/plugins/messageservices/*.so* usr/lib/qmf/messageservices
+

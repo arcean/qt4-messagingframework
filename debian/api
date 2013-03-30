@@ -1,0 +1,7 @@
+interface: libqmf
+type: library
+scope: Nokia MeeGo
+state: unstable
+libs-pkg: libqmf0
+dev-pkg: libqmf-dev
+

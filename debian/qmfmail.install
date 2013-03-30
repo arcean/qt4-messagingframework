@@ -1,0 +1,4 @@
+usr/bin/qtmail
+usr/bin/messagingaccounts
+usr/plugins/composers/*.so* usr/lib/qmf/composers
+usr/plugins/viewers/*.so* usr/lib/qmf/viewers

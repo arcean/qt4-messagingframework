@@ -1,0 +1,32 @@
+How to enable messageserver logs.
+
+Steps:
+
+1. Go to the folder /home/user/.config/Nokia on the device
+
+2. Open Messageserver.conf file if it exists, otherwise create it.
+
+3. Change this as follows:
+
+[Syslog]
+Enabled=1
+
+for enabling syslog
+
+OR
+
+[FileLog]
+Path=/home/user/.messageserver.log
+Enabled=1
+
+for enabling filelog
+
+Set the "1" value for enabling a some category of logs
+
+[Log%20categories]
+IMAP=0
+Messaging=1
+POP=0
+SMTP=0
+
+4. Restart the messageserver application (pkill messageserver and start it again)

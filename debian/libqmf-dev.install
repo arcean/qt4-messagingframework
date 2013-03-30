@@ -1,0 +1,4 @@
+usr/include/qmfclient/*
+usr/include/qmfmessageserver/*
+usr/lib/pkgconfig/*
+

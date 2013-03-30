@@ -1,0 +1,5 @@
+usr/lib/libqmfclient.so*
+usr/lib/libqmfmessageserver.so*
+usr/lib/libqmfutil.so*
+# usr/lib/libsparql.so*
+usr/share/accounts/*

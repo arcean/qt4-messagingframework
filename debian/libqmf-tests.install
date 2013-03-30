@@ -1,0 +1,4 @@
+usr/tests/tests.xml usr/share/libqmf-tests/
+usr/tests/tst_* usr/tests/qmf/
+usr/tests/testdata usr/tests/qmf/
+
