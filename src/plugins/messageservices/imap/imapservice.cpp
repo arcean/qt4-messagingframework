@@ -1347,7 +1347,7 @@ void ImapService::Source::retrievalCompleted()
             // Push email must be established
             _service->_establishingPushEmail = false;
             _service->_pushRetry = ThirtySeconds;
-            
+
             _queuedMailCheckInProgress = false;
         }
     }
